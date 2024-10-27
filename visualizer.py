@@ -6,7 +6,7 @@ import random
 import pygame
 def play_music():
     pygame.mixer.init()
-    pygame.mixer.music.load("C:/Users/Navami/Downloads/WhatsApp Audio 2024-02-16 at 11.47.51 PM.mpeg")  # Replace "your_music_file.mp3" with the path to your music file
+    pygame.mixer.music.load("C:/path/to/music file")  # Replace "your_music_file.mp3" with the path to your music file
     pygame.mixer.music.play(-1)    
 if __name__=='__main__':
     ms_speed=350
