@@ -27,7 +27,7 @@ pip install pygame matplotlib numpy
 ```  
 3️⃣ **Run the application**  
 ```bash
-python main.py
+python visualizer.py
 ```  
 
 ## **How It Works** 🎬  
