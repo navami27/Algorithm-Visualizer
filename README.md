@@ -19,8 +19,7 @@ An interactive **Algorithm Visualizer** built using **Python**, leveraging **Pyg
 ## **Installation** 🔧  
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/navami27/algorithm-visualizer.git
-cd algorithm-visualizer
+https://github.com/navami27/Algorithm-Visualizer.git
 ```  
 2️⃣ **Install dependencies**  
 ```bash
